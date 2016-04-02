@@ -32,4 +32,14 @@ SuperSwipeRefreshLayout<br>https://github.com/nuptboyzhb/SuperSwipeRefreshLayout
  包含各种控件的app<br>https://github.com/ymcao/AppAssit<br>
  ihepai照片合拍的手机app<br>https://github.com/wqandroid/ihepai<br>
  支持MarkDown的一个笔记App<br>https://github.com/plafue/writeily-pro<br>
- 
+ 国人写的一个支持部分MarkDown语法的便签<br>https://github.com/Jhuster/JNote<br>
+ 极简笔记<br>https://github.com/lguipeng/notes<br>
+ Uber welcome page.Uber的欢迎界面Android版<br>https://github.com/KobeGong/UberSplash<br>
+ 逼乎，让我们在撕逼中寻找答案<br>https://github.com/haruue/bihu<br>
+模仿ZERO的一款Android应用<br>https://github.com/ShelbyYu/CardPhoto<br>
+自定义控件之-Canvas实时绘制音乐波形图<br>https://github.com/north2014/A-MusicView<br>
+GankLock干货锁屏<br>https://github.com/wavever/GankLock<br>
+仿开眼视频菜单动画<br>https://github.com/Assassinss/eyepetizer_menu_animation<br>
+CoCoin，一款多视图记账APP<br>https://github.com/Nightonke/CoCoin<br>
+2016年DroidKaigi的官方应用。<br>https://github.com/konifar/droidkaigi2016<br>
+书吧，小说查找阅读器<br>https://github.com/liuguangqiang/shuba<br>
