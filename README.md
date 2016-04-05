@@ -46,3 +46,5 @@ CoCoin，一款多视图记账APP<br>https://github.com/Nightonke/CoCoin<br>
 Sava+是一款基于android平台的记账app<br>https://github.com/xdsjs/save<br>
 快速记（个人记账安卓app）<br>https://github.com/linmp4/quickmark<br>
 一个跑步时用的轨迹记录和计步器APP<br>https://github.com/Alost/TrackPedometer<br>
+ ImageEditor-Android安卓设备上图形编辑开源控件<br>https://github.com/siwangqishiq/ImageEditor-Android<br>
+ -包含美颜等40余种实时滤镜相机<br>https://github.com/wuhaoyu1990/MagicCamera<br>
