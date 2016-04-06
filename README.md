@@ -48,3 +48,4 @@ Sava+是一款基于android平台的记账app<br>https://github.com/xdsjs/save<b
 一个跑步时用的轨迹记录和计步器APP<br>https://github.com/Alost/TrackPedometer<br>
  ImageEditor-Android安卓设备上图形编辑开源控件<br>https://github.com/siwangqishiq/ImageEditor-Android<br>
  -包含美颜等40余种实时滤镜相机<br>https://github.com/wuhaoyu1990/MagicCamera<br>
+ 类似于One那样的每天一首诗歌应用<br>https://github.com/LaudOak/OakParkPlus<br>
