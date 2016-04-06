@@ -49,5 +49,7 @@ Sava+是一款基于android平台的记账app<br>https://github.com/xdsjs/save<b
  ImageEditor-Android安卓设备上图形编辑开源控件<br>https://github.com/siwangqishiq/ImageEditor-Android<br>
  -包含美颜等40余种实时滤镜相机<br>https://github.com/wuhaoyu1990/MagicCamera<br>
  类似于One那样的每天一首诗歌应用<br>https://github.com/LaudOak/OakParkPlus<br>
- 模仿One的两个应用<br>https://github.com/meilbn/MyOne-Android<br>https://github.com/meilbn/MyOne-Android<br>
+ 模仿One的两个应用<br>https://github.com/meilbn/MyOne-Android<br>
  一款Android图文精选app，通过抓取网页获得图文列表。<br>https://github.com/XunMengWinter/Now<br>
+ 一个酷炫的Material Design ViewPager<br>https://github.com/florent37/MaterialViewPager<br>
+ 扫扫图书扫描图书码<br>https://github.com/JayFang1993/ScanBook<br>
