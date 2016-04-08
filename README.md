@@ -55,3 +55,4 @@ Sava+是一款基于android平台的记账app<br>https://github.com/xdsjs/save<b
  扫扫图书扫描图书码<br>https://github.com/JayFang1993/ScanBook<br>
 Remindly提醒应用<br>https://github.com/blanyal/Remindly<br>
 最美文字，文字模板制作分享<br>https://github.com/NicodeLee/Beautyacticle<br>
+AppPlus应用管理器<br>https://github.com/maoruibin/AppPlus<br>
